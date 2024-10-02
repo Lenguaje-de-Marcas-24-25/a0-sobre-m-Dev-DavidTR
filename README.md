@@ -1,2 +1,40 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jJ3oraFF)
-Cambia este readme.md por el contenido de la tarea Sobre mi 
+# UNIDAD 1
+## SOBRE MI
+
+### **INFORMACION PERSONAL**
+
+*NOMBRE:* David
+
+*APELLIDOS:* Toledano Ríos
+
+### *CIUDAD DE ORIGEN*
+
+*CIUDAD DE ORIGEN:*
+Aguilar de la Frontera
+
+*CIUDAD RESIDENCIAL DURANTE EL CURSO:*
+Córdoba
+
+### **HOBBIES:**
+1. MUSICA
+    * RAP
+    * TRAP
+    * URBANA
+2. VIDEOJUEGOS
+    * SKYRIM
+    * VALORANT
+    * FIFA
+3. MODA
+    * SNEAKERS
+### **REDES SOCIALES:**
+*INSTAGRAM:* _DavidTR _
+
+*TIKTOK:* DAVIDTR
+
+### *CITA*
+
+
+ > LO IMPOSIBLE SOLO TARDA UN POCO MAS
+### *FOTO*
+
+![Aqui pongo una foto mia](28abd32e-67b9-49f0-9d58-6f6d94ca8cbf.png)
